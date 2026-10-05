@@ -1,0 +1,48 @@
+frontend-react/vitest.config.mjs
+  s_b8a26672374034::t_a4209dbd61bbc3 1-17
+frontend-react/eslint.config.js
+  s_b8a26672374034::t_e26a2260387ddc 1-33
+frontend-react/src/main.tsx
+  s_b8a26672374034::t_63dc142efb7b67 1-12
+frontend-react/vite.config.ts
+  s_b8a26672374034::t_f84e579280aa0a 1-29
+frontend-react/src/App.tsx
+  s_b8a26672374034::t_1c514d36999d33 1-10
+frontend-react/.gitignore
+  s_b8a26672374034::t_1ebd6cf187cb1b 1-6
+frontend-react/src/vite-env.d.ts
+  s_b8a26672374034::t_bcddd38723d7b9 1
+frontend-react/tsconfig.json
+  s_b8a26672374034::t_5748d21d40b875 1-22
+frontend-react/.env.example
+  s_b8a26672374034::t_ffe4ae84223894 1-14
+frontend-react/src/pages/NotFoundPage.tsx
+  s_b8a26672374034::t_863d38e24854e3 1-26
+frontend-react/package.json
+  s_b8a26672374034::t_f856ad610f1d27 1-62
+frontend-react/index.html
+  s_b8a26672374034::t_ce6b18a7e60967 1-33
+frontend-react/package-lock.json
+  s_b8a26672374034::t_dee7a98411083a 1-7700
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b57aafcfa776a1e9a7047fb21a8a07022f200108",
+  "prompts": {},
+  "humans": {
+    "h_c5a3d01edfee72": {
+      "author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_b8a26672374034": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ef3f52736ffeJsUA7tGUWVxQRo",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
