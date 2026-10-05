@@ -1,0 +1,25 @@
+docs/superpowers/plans/2026-10-05-nextjs-to-react-vite-migration.md
+  s_034dac3936f8e7::t_e2d3b4b66c43c0 2044,2048-2049
+  s_034dac3936f8e7::t_1304f92e1c1d56 1785-1896
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e6606a8d80234efe02d84b468793874aa9098959",
+  "prompts": {},
+  "humans": {
+    "h_c5a3d01edfee72": {
+      "author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_034dac3936f8e7": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ef43a185effeTrsGmdK53k712z",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
