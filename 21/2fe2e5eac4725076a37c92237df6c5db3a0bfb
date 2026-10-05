@@ -1,0 +1,31 @@
+docs/superpowers/plans/2026-10-05-nextjs-to-react-vite-migration.md
+  s_034dac3936f8e7::t_a610eae46fb73a 1898-1900
+  s_034dac3936f8e7::t_ae0de15b2a43a5 1557-1558
+  s_034dac3936f8e7::t_fe6159313c8e22 1350,1359-1360,1364,1370-1371
+  s_034dac3936f8e7::t_339838e4e58223 376,634-637,1372-1373,1666-1685,1715,1731,1785,1801,1835,1927,1937,1946,2665
+  s_034dac3936f8e7::t_3d6af984daa578 365-368,373-375
+  s_034dac3936f8e7::t_b779cf5193879c 1349
+  s_034dac3936f8e7::t_251cff537fb6f0 1902,1904-1905
+  s_034dac3936f8e7::t_7223b85e55f5b4 1686
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "212fe2e5eac4725076a37c92237df6c5db3a0bfb",
+  "prompts": {},
+  "humans": {
+    "h_c5a3d01edfee72": {
+      "author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_034dac3936f8e7": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ef43a185effeTrsGmdK53k712z",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
