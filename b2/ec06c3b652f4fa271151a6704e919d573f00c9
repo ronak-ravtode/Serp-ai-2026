@@ -1,0 +1,24 @@
+frontend-react/vite.config.ts
+  s_3b83e813899a81::t_50f755fa640174 15-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b2ec06c3b652f4fa271151a6704e919d573f00c9",
+  "prompts": {},
+  "humans": {
+    "h_c5a3d01edfee72": {
+      "author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_3b83e813899a81": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ef3c82953ffeaoz83s5i2wb4aA",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
