@@ -1,0 +1,178 @@
+frontend-react/src/lib/useTranslatedFields.ts
+  s_aeab4b9e4eb7db::t_278e7798281208 1-102
+frontend-react/src/components/motion/gsap.ts
+  s_aeab4b9e4eb7db::t_278e7798281208 1-6
+frontend-react/src/components/layout/Footer.tsx
+  s_aeab4b9e4eb7db::t_278e7798281208 1-85
+frontend-react/src/components/motion/usePrefersReducedMotion.ts
+  s_aeab4b9e4eb7db::t_278e7798281208 1-21
+frontend-react/src/main.tsx
+  s_aeab4b9e4eb7db::t_dd957017908ed8 4
+frontend-react/src/components/FloatingChatWidget.tsx
+  s_aeab4b9e4eb7db::t_278e7798281208 1-341
+frontend-react/src/components/chat/GrievanceCard.tsx
+  s_aeab4b9e4eb7db::t_278e7798281208 1-294
+frontend-react/src/lib/i18n/dictionaries.ts
+  s_aeab4b9e4eb7db::t_7b0b802c366f0d 1-3587
+frontend-react/src/lib/useTranslate.ts
+  s_aeab4b9e4eb7db::t_278e7798281208 1-18
+frontend-react/src/components/ui/ArcCarousel.tsx
+  s_aeab4b9e4eb7db::t_278e7798281208 1-281
+frontend-react/src/components/layout/HamburgerMenu.tsx
+  s_aeab4b9e4eb7db::t_278e7798281208 1-88
+frontend-react/src/lib/i18n/provider.tsx
+  s_aeab4b9e4eb7db::t_278e7798281208 1-72
+frontend-react/src/components/motion/Stagger.tsx
+  s_aeab4b9e4eb7db::t_278e7798281208 1-64
+frontend-react/src/components/ui/CountUp.tsx
+  s_aeab4b9e4eb7db::t_278e7798281208 1-37
+frontend-react/src/components/chat/GrievanceFieldPanel.tsx
+  s_aeab4b9e4eb7db::t_278e7798281208 1-217
+frontend-react/src/components/chat/ThinkingProcess.tsx
+  s_aeab4b9e4eb7db::t_278e7798281208 1-108
+frontend-react/src/components/layout/ConditionalNavs.tsx
+  s_aeab4b9e4eb7db::t_278e7798281208 1-20
+frontend-react/src/components/layout/LanguageSwitcher.tsx
+  s_aeab4b9e4eb7db::t_278e7798281208 1-106
+frontend-react/src/components/motion/Reveal.tsx
+  s_aeab4b9e4eb7db::t_278e7798281208 1-68
+frontend-react/src/components/chat/GrievanceClassificationPanel.tsx
+  s_aeab4b9e4eb7db::t_278e7798281208 1-152
+frontend-react/src/components/chat/GrievanceFlow.tsx
+  s_aeab4b9e4eb7db::t_278e7798281208 1-251
+frontend-react/src/components/chat/MessageBubble.tsx
+  s_aeab4b9e4eb7db::t_278e7798281208 1-579
+frontend-react/src/lib/translator.ts
+  s_aeab4b9e4eb7db::t_278e7798281208 1-70
+frontend-react/src/components/ChatWindow.tsx
+  s_aeab4b9e4eb7db::t_278e7798281208 1-1098
+frontend-react/src/components/layout/TopNav.tsx
+  s_aeab4b9e4eb7db::t_278e7798281208 1-153
+frontend-react/src/components/ui/Marquee.tsx
+  s_aeab4b9e4eb7db::t_278e7798281208 1-32
+frontend-react/public/file.svg
+  s_aeab4b9e4eb7db::t_1d3b527b0eed1a 1
+frontend-react/public/globe.svg
+  s_aeab4b9e4eb7db::t_db90d09e8ccd52 1
+frontend-react/public/next.svg
+  s_aeab4b9e4eb7db::t_27eaf4f3b859c4 1
+frontend-react/public/vercel.svg
+  s_aeab4b9e4eb7db::t_775cf2dc305b5f 1
+frontend-react/public/window.svg
+  s_aeab4b9e4eb7db::t_f3035c1054cc28 1
+frontend-react/src/components/EvidenceBand.tsx
+  s_aeab4b9e4eb7db::t_de250f58845d1c 1-16
+frontend-react/src/components/__tests__/ChatWindow.test.tsx
+  s_aeab4b9e4eb7db::t_badb9d3ece6677 1-197
+frontend-react/src/components/chat/__tests__/EvidencePanel.test.tsx
+  s_aeab4b9e4eb7db::t_0a205ecdfbbf63 1-254
+frontend-react/src/components/chat/__tests__/GrievanceCard.test.tsx
+  s_aeab4b9e4eb7db::t_11b175e2e00ef0 1-126
+frontend-react/src/components/chat/__tests__/GrievanceFlow.test.tsx
+  s_aeab4b9e4eb7db::t_4977b50e8d1bf1 1-282
+frontend-react/src/components/chat/__tests__/MessageBubble.test.tsx
+  s_aeab4b9e4eb7db::t_1727c3ba21b4d2 1-85
+frontend-react/src/components/chat/__tests__/ThinkingProcess.test.tsx
+  s_aeab4b9e4eb7db::t_6b695ed2c6b771 1-61
+frontend-react/src/components/ui/Alert.tsx
+  s_aeab4b9e4eb7db::t_88871d817993b5 1-52
+frontend-react/src/components/ui/Badge.tsx
+  s_aeab4b9e4eb7db::t_f80e7a7ea2fe98 1-37
+frontend-react/src/components/ui/Button.tsx
+  s_aeab4b9e4eb7db::t_fffb8080cef5f9 1-66
+frontend-react/src/components/ui/Card.tsx
+  s_aeab4b9e4eb7db::t_30286cdb55cbcb 1-43
+frontend-react/src/components/ui/Chips.tsx
+  s_aeab4b9e4eb7db::t_a171d7fb4a31dc 1-39
+frontend-react/src/components/ui/EmptyState.tsx
+  s_aeab4b9e4eb7db::t_17b3753a248256 1-25
+frontend-react/src/components/ui/Icons.tsx
+  s_aeab4b9e4eb7db::t_1f898f3e1a5ee6 1-361
+frontend-react/src/components/ui/Input.tsx
+  s_aeab4b9e4eb7db::t_67427a3a1597b3 1-32
+frontend-react/src/components/ui/Select.tsx
+  s_aeab4b9e4eb7db::t_019c5a454a775d 1-22
+frontend-react/src/components/ui/Skeleton.tsx
+  s_aeab4b9e4eb7db::t_f02edfcc7bc6d1 1-5
+frontend-react/src/components/ui/Stepper.tsx
+  s_aeab4b9e4eb7db::t_c891b997545e87 1-44
+frontend-react/src/lib/__tests__/api.test.ts
+  s_aeab4b9e4eb7db::t_d2b7f3c7e80018 1-73
+frontend-react/src/lib/__tests__/speech.test.ts
+  s_aeab4b9e4eb7db::t_384a426f7f4add 1-123
+frontend-react/src/lib/api.ts
+  s_aeab4b9e4eb7db::t_8362ab6c97a918 1-333
+frontend-react/src/lib/band.test.ts
+  s_aeab4b9e4eb7db::t_4bda6da3597f90 1-8
+frontend-react/src/lib/band.ts
+  s_aeab4b9e4eb7db::t_82749575865904 1-11
+frontend-react/src/lib/data/accent.ts
+  s_aeab4b9e4eb7db::t_687f6c0781eaf5 1-6
+frontend-react/src/lib/data/data.test.ts
+  s_aeab4b9e4eb7db::t_e5b2e5358253ae 1-30
+frontend-react/src/lib/data/deco.ts
+  s_aeab4b9e4eb7db::t_389d74bcba0e35 1-80
+frontend-react/src/lib/data/faq.test.ts
+  s_aeab4b9e4eb7db::t_82aaa63afa01ba 1-12
+frontend-react/src/lib/data/faq.ts
+  s_aeab4b9e4eb7db::t_0caeaaba15fbdb 1-111
+frontend-react/src/lib/data/grievance.ts
+  s_aeab4b9e4eb7db::t_5321063a6b063d 1-67
+frontend-react/src/lib/data/i18n.test.ts
+  s_aeab4b9e4eb7db::t_a37c690cd09ff9 1-22
+frontend-react/src/lib/data/i18n.ts
+  s_aeab4b9e4eb7db::t_1054330419f8f2 1-11
+frontend-react/src/lib/data/index.ts
+  s_aeab4b9e4eb7db::t_d19362e1eb3114 1-8
+frontend-react/src/lib/data/legal.test.ts
+  s_aeab4b9e4eb7db::t_aef88d16bcf926 1-14
+frontend-react/src/lib/data/legal.ts
+  s_aeab4b9e4eb7db::t_c501a36710b7f0 1-897
+frontend-react/src/lib/data/library.ts
+  s_aeab4b9e4eb7db::t_9718aab57f23de 1-45
+frontend-react/src/lib/data/schemes.test.ts
+  s_aeab4b9e4eb7db::t_45eca22588bb2d 1-12
+frontend-react/src/lib/data/schemes.ts
+  s_aeab4b9e4eb7db::t_649f23f7815fd5 1-232
+frontend-react/src/lib/data/services.test.ts
+  s_aeab4b9e4eb7db::t_6cb01fdb7340eb 1-15
+frontend-react/src/lib/data/services.ts
+  s_aeab4b9e4eb7db::t_860697254d0e5f 1-147
+frontend-react/src/lib/i18n/dictionaries.test.ts
+  s_aeab4b9e4eb7db::t_36ca20a39fc2a5 1-18
+frontend-react/src/lib/i18n/formatQuery.ts
+  s_aeab4b9e4eb7db::t_e943688ba50e76 1-55
+frontend-react/src/lib/i18n/i18n.test.ts
+  s_aeab4b9e4eb7db::t_f0eec76c5edcfb 1-26
+frontend-react/src/lib/i18n/i18n.ts
+  s_aeab4b9e4eb7db::t_9059aaf66008c8 1-2
+frontend-react/src/lib/speech.ts
+  s_aeab4b9e4eb7db::t_11d648c3bf54da 1-475
+frontend-react/src/lib/translator.test.ts
+  s_aeab4b9e4eb7db::t_10a89ddfb81e1f 1-38
+frontend-react/src/styles/globals.css
+  s_aeab4b9e4eb7db::t_67a2771a9bc57b 1-464
+frontend-react/src/types/speech-recognition.d.ts
+  s_aeab4b9e4eb7db::t_426dee79f5e806 1-52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "715facafd7fbebfaea9a4fb2a3776d3cd131fca6",
+  "prompts": {},
+  "humans": {
+    "h_c5a3d01edfee72": {
+      "author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_aeab4b9e4eb7db": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ef3c39db9ffezO78CYqF9mL45p",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
