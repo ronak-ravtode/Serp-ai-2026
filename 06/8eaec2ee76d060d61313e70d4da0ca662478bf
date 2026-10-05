@@ -1,0 +1,50 @@
+frontend-react/server/index.js
+  s_57d90ffe4d71ed::t_99522c34973fbc 140-145
+  s_57d90ffe4d71ed::t_b2723d29e06882 87-99,101
+  s_57d90ffe4d71ed::t_472efa9126bffd 137-139,146
+  s_57d90ffe4d71ed::t_d108bd6e146354 181-185
+  s_57d90ffe4d71ed::t_bc1f86f16749a1 222-225
+  s_57d90ffe4d71ed::t_60156d21473e78 261-266
+  s_57d90ffe4d71ed::t_f74fddcb0af32f 14-16
+frontend-react/server/proxy.js
+  s_9f6008a3a89d59::t_eefde3ff8756a1 41
+  s_57d90ffe4d71ed::t_e76349e58b14f5 42-72,81-82
+  s_57d90ffe4d71ed::t_fdb34add6f51be 108-113
+  s_57d90ffe4d71ed::t_49050e0d111255 21-27
+frontend-react/server/__tests__/server.test.js
+  s_57d90ffe4d71ed::t_a1c2b39e5228fc 206-216
+  s_57d90ffe4d71ed::t_1010096749c30c 314-327
+  s_57d90ffe4d71ed::t_a84755866ab810 159-167
+  s_57d90ffe4d71ed::t_d58efc7eb877b7 392-427
+  s_57d90ffe4d71ed::t_3608b627ff488c 115-125,460-465
+  s_57d90ffe4d71ed::t_5daf02b2462031 466-470
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "068eaec2ee76d060d61313e70d4da0ca662478bf",
+  "prompts": {},
+  "humans": {
+    "h_c5a3d01edfee72": {
+      "author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_57d90ffe4d71ed": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ef2a84827ffeXL22ANEwc3j8gv",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    },
+    "s_9f6008a3a89d59": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ef2b17e11ffeukFp4kZ6YklFs8",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
