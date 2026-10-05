@@ -1,0 +1,38 @@
+frontend-react/server/index.js
+  s_ccc8cc626263e9::t_6a4d3bbf6fd572 288
+  s_ccc8cc626263e9::t_40339217423535 1-287
+frontend-react/server/clerk.js
+  s_ccc8cc626263e9::t_663018534b6757 30
+  s_ccc8cc626263e9::t_40339217423535 1-29
+frontend-react/server/__tests__/server.test.js
+  s_ccc8cc626263e9::t_40339217423535 1-410
+  s_ccc8cc626263e9::t_b478af7cf75b3a 411
+frontend-react/server/sse.js
+  s_ccc8cc626263e9::t_40339217423535 1-49,51-59
+  s_ccc8cc626263e9::t_fd54825983d5c5 60
+  s_ccc8cc626263e9::t_8646f904081992 50
+frontend-react/server/proxy.js
+  s_ccc8cc626263e9::t_40339217423535 1-90
+  s_ccc8cc626263e9::t_d37c2a00eeee85 91
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "165338258cac6651377de64266d1fb9a120336a2",
+  "prompts": {},
+  "humans": {
+    "h_c5a3d01edfee72": {
+      "author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_ccc8cc626263e9": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ef3a2d4d3ffeU2Y1suGBjHujSU",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
