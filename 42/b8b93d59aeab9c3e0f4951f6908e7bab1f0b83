@@ -1,0 +1,25 @@
+frontend-react/package.json
+  s_8fb69a694834aa::t_31d548a6970dda 8
+  s_8fb69a694834aa::t_ab6214bb408dcb 11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "42b8b93d59aeab9c3e0f4951f6908e7bab1f0b83",
+  "prompts": {},
+  "humans": {
+    "h_c5a3d01edfee72": {
+      "author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_8fb69a694834aa": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ef3919512ffeN34JyT0pCmfAQ3",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
