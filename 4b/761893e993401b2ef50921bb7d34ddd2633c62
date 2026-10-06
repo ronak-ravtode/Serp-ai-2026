@@ -1,0 +1,28 @@
+frontend-react/src/lib/speech.ts
+  s_034dac3936f8e7::t_93e93167b579aa 172,180-189
+  s_034dac3936f8e7::t_27e62fee394c6e 221
+frontend-react/src/components/chat/GrievanceCard.tsx
+  s_034dac3936f8e7::t_b76ba2a0ce7c54 226
+  s_034dac3936f8e7::t_8b1c473a69494f 39-72
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4b761893e993401b2ef50921bb7d34ddd2633c62",
+  "prompts": {},
+  "humans": {
+    "h_c5a3d01edfee72": {
+      "author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_034dac3936f8e7": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ef43a185effeTrsGmdK53k712z",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
