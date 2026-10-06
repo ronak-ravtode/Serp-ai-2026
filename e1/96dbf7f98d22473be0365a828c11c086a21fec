@@ -1,0 +1,136 @@
+backend/tests/test_leads_p1.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-253
+backend/app/web_rag/clusters.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-223
+backend/tests/test_facets_p0.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-270
+PROJECT_STATUS.md
+  s_034dac3936f8e7::t_cb20873bf07061 14-31,74,80,91,117-118,142-143,154,159
+  s_034dac3936f8e7::t_1c5de915514941 160-161
+backend/app/web_rag/referrals.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-174
+backend/app/web_rag/service.py
+  s_034dac3936f8e7::t_cb20873bf07061 12,46-47,51-67,71,75-88,94-95,266-298,373-396,407-468,608-615,708-713,1114,1119-1127,1131-1136,1138,1160,1173-1178,1192-1199,1216-1766,1771-1772,1802-1819,1821-1827,1976-2063,2070-2075,2080-2089,2152-2190,2193-2196,2200-2238,2273-2312,2338-2367,2448-2459
+backend/app/web_rag/facets.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-121
+architecture.md
+  s_034dac3936f8e7::t_cb20873bf07061 69-73,113,115-116,145-149,204,266,268-271,277,382
+backend/tests/test_authority_p0.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-310
+backend/tests/test_clusters_p1.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-182
+backend/app/web_rag/serpapi_client.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-207
+frontend/src/lib/__tests__/api.test.ts
+  s_034dac3936f8e7::t_5a95f104ca84c1 21-22
+backend/app/web_rag/scheme_exceptions.json
+  s_034dac3936f8e7::t_cb20873bf07061 1-29
+backend/app/web_rag/recovery.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-232
+backend/app/web_rag/diversity.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-142
+backend/app/web_rag/providers.py
+  s_034dac3936f8e7::t_cb20873bf07061 30-32,52
+backend/app/routes/chat.py
+  s_034dac3936f8e7::t_cb20873bf07061 725,745-748,894,945,993,1033,1050,1403
+backend/tests/test_diversity_p1.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-134
+backend/app/services/rag_orchestrator.py
+  s_034dac3936f8e7::t_cb20873bf07061 47,151,198,219-222,224-228,234,303-317,453,488-491,498-499,534-547,655-662,677-682,687-697,787,804
+backend/tests/test_validity_p0.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-342
+backend/app/web_rag/impersonation.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-151
+backend/app/services/web_rag.py
+  s_034dac3936f8e7::t_cb20873bf07061 34,47,49-54,100,109,127-128,138-147,211,246-402,427,447,473,489-501,505,507,523,550,591,637-640,767-785
+backend/app/web_rag/retrieval_scorer.py
+  s_034dac3936f8e7::t_cb20873bf07061 32-54,243-244,247,249-253,255-273,291-293,300-303,305-320,400-401,410-413,416-420,443-474,503-509,511-536,551-559,585-591,605-618
+backend/tests/test_serpapi_client.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-351
+backend/app/web_rag/leads.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-213
+backend/tests/test_web_rag_deadline.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-246
+backend/app/web_rag/query_classifier.py
+  s_034dac3936f8e7::t_cb20873bf07061 41,53-66,73-75,102-103,130-134,152-153,160-161,172-173,221-223,292-294,441-443,604-725,728,783-795,798-853,859-861,868-873,875-957
+backend/tests/test_adversarial_p0.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-205
+PRD.md
+  s_034dac3936f8e7::t_cb20873bf07061 137-142
+backend/app/web_rag/mandate_map.json
+  s_034dac3936f8e7::t_cb20873bf07061 1-670
+backend/tests/test_uncertainty_p2.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-167
+backend/tests/test_multilingual_p2.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-191
+backend/tests/test_identifiers_p1.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-154
+CONTRIBUTING.md
+  s_034dac3936f8e7::t_cb20873bf07061 99
+backend/app/web_rag/lexicon.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-278
+backend/app/web_rag/mandate_map.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-428
+backend/tests/test_impersonation_p1.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-157
+DECISIONS.md
+  s_034dac3936f8e7::t_cb20873bf07061 139,142-184
+backend/app/web_rag/identifiers.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-192
+backend/app/web_rag/terminology_expansion.json
+  s_034dac3936f8e7::t_cb20873bf07061 1
+CLAUDE.md
+  s_034dac3936f8e7::t_cb20873bf07061 42,51-54,110,112
+frontend/src/lib/backend.ts
+  s_034dac3936f8e7::t_6bede35acbaba9 66-75
+backend/tests/test_referral_p1.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-162
+backend/tests/test_status_p1.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-120
+AGENTS.md
+  s_034dac3936f8e7::t_cb20873bf07061 1-208
+backend/app/web_rag/validity.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-546
+backend/app/web_rag/expansion.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-208
+backend/tests/test_jurisdiction_p0.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-306
+.env.example
+  s_034dac3936f8e7::t_cb20873bf07061 37-38
+backend/app/config.py
+  s_034dac3936f8e7::t_cb20873bf07061 112-113
+backend/tests/test_multilingual_p0.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-242
+backend/tests/test_expansion_p2.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-154
+backend/tests/test_recovery_p1.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-294
+backend/tests/test_web_discovery_providers.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-184
+README.md
+  s_034dac3936f8e7::t_cb20873bf07061 1,3,17-18,35-37,59,72,91,105-110,135,184-188,190-191,230-234,250-251,253,256-259
+backend/app/contracts.py
+  s_034dac3936f8e7::t_cb20873bf07061 283-285
+backend/app/web_rag/status.py
+  s_034dac3936f8e7::t_cb20873bf07061 1-60
+backend/tests/test_contract.py
+  s_034dac3936f8e7::t_cb20873bf07061 53-54,58-60,70
+backend/app/web_rag/multilingual_lexicon.json
+  s_034dac3936f8e7::t_cb20873bf07061 1-437
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e196dbf7f98d22473be0365a828c11c086a21fec",
+  "prompts": {},
+  "sessions": {
+    "s_034dac3936f8e7": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ef43a185effeTrsGmdK53k712z",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
