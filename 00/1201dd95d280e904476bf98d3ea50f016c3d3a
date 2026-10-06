@@ -1,0 +1,26 @@
+backend/app/retrieval/__init__.py
+  s_034dac3936f8e7::t_add191dc846c02 38-48
+backend/app/services/static_rag.py
+  s_034dac3936f8e7::t_add191dc846c02 239-244
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "001201dd95d280e904476bf98d3ea50f016c3d3a",
+  "prompts": {},
+  "humans": {
+    "h_c5a3d01edfee72": {
+      "author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_034dac3936f8e7": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ef43a185effeTrsGmdK53k712z",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
