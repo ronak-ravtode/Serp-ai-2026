@@ -1,0 +1,35 @@
+frontend-react/src/lib/i18n/i18n.test.ts
+  s_034dac3936f8e7::t_48b588a7364227 24
+frontend-react/src/lib/i18n/dictionaries.test.ts
+  s_034dac3936f8e7::t_5d2e73f5bdc4ed 5-28,30,34-39,42-56
+frontend-react/src/components/chat/__tests__/EvidencePanel.test.tsx
+  s_034dac3936f8e7::t_1047d143d5c2a6 252-254
+  s_034dac3936f8e7::t_e7e04b79458eff 132-134,137,139-142,146,149-151,153,162,179-182
+  s_034dac3936f8e7::t_9097c17e8dfd71 23-26
+frontend-react/scripts/i18n-coverage.mjs
+  s_034dac3936f8e7::t_5506fc4b12d560 1-58
+frontend-react/src/lib/__tests__/speech.test.ts
+  s_034dac3936f8e7::t_28e684a4b37f3e 61,64,72-83
+  s_034dac3936f8e7::t_a20a79da5942c7 51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9de59dc3e25420d2cf76ec2d14e605876dc3c608",
+  "prompts": {},
+  "humans": {
+    "h_c5a3d01edfee72": {
+      "author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_034dac3936f8e7": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ef43a185effeTrsGmdK53k712z",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
