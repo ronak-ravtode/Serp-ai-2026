@@ -1,0 +1,28 @@
+frontend-react/vite.config.ts
+  s_034dac3936f8e7::t_f60ef2aabb8f11 14-19,26
+frontend-react/.env.example
+  s_034dac3936f8e7::t_5392bc3299e022 1-4,10,12,21
+frontend-react/README.md
+  s_034dac3936f8e7::t_6dbaa94c6f8db6 32-34,45,63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "30a412e013ba8ebf00d1d50b72a80644da6f67a8",
+  "prompts": {},
+  "humans": {
+    "h_c5a3d01edfee72": {
+      "author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_034dac3936f8e7": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ef43a185effeTrsGmdK53k712z",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
