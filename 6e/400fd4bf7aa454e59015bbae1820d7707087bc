@@ -1,0 +1,27 @@
+frontend-react/server/index.js
+  s_034dac3936f8e7::t_47f6ba9bf45df7 206-210,215
+  s_034dac3936f8e7::t_363b8af08d2f9c 159-161,164
+  s_034dac3936f8e7::t_89afbdbe72c923 252-256,261
+  s_034dac3936f8e7::t_9c41fe7c55b51e 35-52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6e400fd4bf7aa454e59015bbae1820d7707087bc",
+  "prompts": {},
+  "humans": {
+    "h_c5a3d01edfee72": {
+      "author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_034dac3936f8e7": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ef43a185effeTrsGmdK53k712z",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
