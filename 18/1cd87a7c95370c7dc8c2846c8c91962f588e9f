@@ -1,0 +1,49 @@
+frontend-react/README.md
+  s_034dac3936f8e7::t_08834f25b8bd60 1-146
+frontend-react/server/__tests__/server.test.js
+  s_034dac3936f8e7::t_c8189beb257afc 6-8,10-13
+  s_034dac3936f8e7::t_c76ae24916a445 508-523,535-543
+  s_034dac3936f8e7::t_d40c558e851006 524-534
+frontend-react/server/sse.js
+  s_034dac3936f8e7::t_65ccb31225bec1 50-59
+frontend-react/package.json
+  s_034dac3936f8e7::t_12d3db3163485a 11-12
+CLAUDE.md
+  s_034dac3936f8e7::t_b319ca5e5130ad 31-32
+  s_034dac3936f8e7::t_b0f0042cd07da2 82,100
+frontend-react/server/index.js
+  s_034dac3936f8e7::t_9292fe2101bdd7 37-53
+  s_034dac3936f8e7::t_ecb1c52fba69f4 201,241
+frontend-react/server/proxy.js
+  s_034dac3936f8e7::t_c94b31ff2fb016 24-29
+frontend-react/eslint.config.js
+  s_034dac3936f8e7::t_49e8eb0944da41 8-20
+frontend-react/scripts/verify-routes.mjs
+  s_034dac3936f8e7::t_241d65ff2cbc74 1-56
+frontend-react/src/styles/document.css
+  s_034dac3936f8e7::t_ad7a29bca7d482 1-15,17-21,26-36
+PROJECT_STATUS.md
+  s_034dac3936f8e7::t_92756a2b168f3b 16,39,89-90,104-108,140
+  s_034dac3936f8e7::t_62d9e916ffb8ec 102-103
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "181cd87a7c95370c7dc8c2846c8c91962f588e9f",
+  "prompts": {},
+  "humans": {
+    "h_c5a3d01edfee72": {
+      "author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_034dac3936f8e7": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ef43a185effeTrsGmdK53k712z",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
