@@ -1,0 +1,29 @@
+frontend-react/src/components/chat/__tests__/GrievanceCard.test.tsx
+  s_034dac3936f8e7::t_c83350fe91a0d2 4,16-20
+frontend-react/src/components/__tests__/ChatWindow.test.tsx
+  s_034dac3936f8e7::t_7511d804fc40f9 3,77,92,106,124,129,147,158
+frontend-react/src/components/chat/__tests__/GrievanceFlow.test.tsx
+  s_034dac3936f8e7::t_3e853958d9594a 195-203
+  s_034dac3936f8e7::t_af8a2a542c7350 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ea12c57d7b808dd2987dd1d9b417b944d6210de5",
+  "prompts": {},
+  "humans": {
+    "h_c5a3d01edfee72": {
+      "author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_034dac3936f8e7": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ef43a185effeTrsGmdK53k712z",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
