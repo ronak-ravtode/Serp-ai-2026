@@ -1,0 +1,39 @@
+frontend-react/server/proxy.js
+  s_034dac3936f8e7::t_8ee969e96b6258 202-209,211,213-218
+  s_034dac3936f8e7::t_a296125d5ecd4b 152,155,158-178,187,189
+  s_034dac3936f8e7::t_38989c08b1bae2 210,212
+  s_034dac3936f8e7::t_3212031d1e9031 92
+  s_034dac3936f8e7::t_bc0f8ca5156a35 93
+frontend-react/server/__tests__/server.test.js
+  s_034dac3936f8e7::t_d22b53cc9096d6 706,710-720,722-725,738,742-743
+  s_034dac3936f8e7::t_569ca9d15ff85d 707-709,721,739-740,747-751
+  s_034dac3936f8e7::t_296a14676f6739 654-659,662-677
+  s_034dac3936f8e7::t_c4d090ecbae057 691-705,726-737,741,744-746,752-753
+frontend-react/server/sse.js
+  s_034dac3936f8e7::t_b2e9d85e5d3327 120
+  s_034dac3936f8e7::t_00840760692f61 30-43
+frontend-react/server/index.js
+  s_034dac3936f8e7::t_bc0f8ca5156a35 62,181,219,256
+  s_034dac3936f8e7::t_ccf7e06558b87e 17,61,180,218,255
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fd1fdd2c0da8fc2cfdf8068cfb8eb9e3f53c9148",
+  "prompts": {},
+  "humans": {
+    "h_c5a3d01edfee72": {
+      "author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_034dac3936f8e7": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ef43a185effeTrsGmdK53k712z",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
