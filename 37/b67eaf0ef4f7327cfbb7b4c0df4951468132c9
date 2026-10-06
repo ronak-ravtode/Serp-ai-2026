@@ -1,0 +1,57 @@
+frontend-react/server/index.js
+  s_034dac3936f8e7::t_7c7d889dfdcf61 22,24-30,32
+  s_034dac3936f8e7::t_22820da2eeade9 299-321,326-330,332
+  s_034dac3936f8e7::t_cb020de2402611 16
+frontend-react/server/__tests__/server.test.js
+  s_034dac3936f8e7::t_a71b369585e2b6 655,661-662
+  s_034dac3936f8e7::t_38f415614632a2 627,629-631,633-635
+  s_034dac3936f8e7::t_9ebe76c211e009 544-626,628,632,636-654,659,663,665-672
+  s_034dac3936f8e7::t_d3963718b7ca2d 656-658,660,664
+frontend-react/server/proxy.js
+  s_034dac3936f8e7::t_265f6981984958 90-94,98-106
+  s_034dac3936f8e7::t_b4f966fbce29d9 156-159,166
+  s_034dac3936f8e7::t_ab1ffc1eab12bf 130-148,150-152,154-155,160-165,168,170,175-182
+frontend-react/eslint.config.js
+  s_034dac3936f8e7::t_0bf1b90af998c7 20-24
+frontend-react/README.md
+  s_034dac3936f8e7::t_5835a3f687d45a 30
+frontend-react/package.json
+  s_034dac3936f8e7::t_648d5b536e52d8 11
+frontend-react/tsconfig.json
+  s_034dac3936f8e7::t_b4dacdb51431c5 21
+frontend-react/vitest.config.mjs
+  s_034dac3936f8e7::t_0ed630180f01ca 16-23
+CLAUDE.md
+  s_034dac3936f8e7::t_108310f2cf07b3 67-85,87
+  s_034dac3936f8e7::t_ea3ce10bad1d67 91
+  s_034dac3936f8e7::t_60e303b4dea8de 101
+frontend-react/server/clerk.js
+  s_034dac3936f8e7::t_6fc4752b279497 3-33,35-36,38,41-55,57-65,68,70,72,75-86
+frontend-react/server/sse.js
+  s_034dac3936f8e7::t_002b1d3116bc0f 7-12,16-25,28-31,34-41,43-50,52-67,69-75,77-100,103-104,106-112,114
+  s_034dac3936f8e7::t_b3f3783dd52e21 51
+  s_034dac3936f8e7::t_fa6020326890a0 6
+frontend-react/.env.example
+  s_034dac3936f8e7::t_19882669d56d6b 10-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "37b67eaf0ef4f7327cfbb7b4c0df4951468132c9",
+  "prompts": {},
+  "humans": {
+    "h_c5a3d01edfee72": {
+      "author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_034dac3936f8e7": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ef43a185effeTrsGmdK53k712z",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
