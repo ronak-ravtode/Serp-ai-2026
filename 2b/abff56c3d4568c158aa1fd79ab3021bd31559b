@@ -1,0 +1,65 @@
+frontend-react/src/components/ChatWindow.tsx
+  s_034dac3936f8e7::t_a42eb9d7df1358 4
+  s_034dac3936f8e7::t_5f085a6252a35b 71-72,75,78-80
+frontend-react/src/lib/speech.ts
+  s_034dac3936f8e7::t_e547f64a751124 396-397,399-402
+  s_034dac3936f8e7::t_a0fe7b8d8ffe3e 2
+  s_034dac3936f8e7::t_c15130df376f67 379,388-394,398,403-405,409
+frontend-react/src/lib/api.ts
+  s_034dac3936f8e7::t_f02c8cb2d1e5d2 2,151,164,176,189,208,226,263,310,327
+frontend-react/.env.example
+  s_034dac3936f8e7::t_4647923ce10868 1-2
+frontend-react/src/lib/translator.ts
+  s_034dac3936f8e7::t_1a7f757802256c 2-3,16-17,22,25-28
+frontend-react/src/lib/backend.ts
+  s_034dac3936f8e7::t_2541587851a09d 2-17,20-28,30-34,36-42,44-46,48-57,59-75,77-85,87-93,95-98,100-116,119-121
+  s_034dac3936f8e7::t_9f0738d5325fcd 117-118
+  s_034dac3936f8e7::t_da7bb0278fca32 1
+  s_034dac3936f8e7::t_457f754723e4cb 18-19
+  s_034dac3936f8e7::t_ad9b83048000a2 47
+  s_034dac3936f8e7::t_b674fbbfa4fa6a 58
+  s_034dac3936f8e7::t_f78183e1e19a09 86
+  s_034dac3936f8e7::t_b118229aa0c017 94
+  s_034dac3936f8e7::t_dd2fb72e7a99c4 122
+frontend-react/vite.config.ts
+  s_034dac3936f8e7::t_31e5039e91db39 21-27
+frontend-react/tsconfig.json
+  s_034dac3936f8e7::t_4647923ce10868 21
+backend/app/config.py
+  s_034dac3936f8e7::t_9f19d8203d9281 7,12-21,26,28-38,42-43
+  s_034dac3936f8e7::t_7f31f781b84060 2,8-11,22-25,27,39-40
+frontend-react/src/lib/__tests__/api.test.ts
+  s_034dac3936f8e7::t_73010a37631d43 3,14-46,59
+backend/app/web_rag/providers.py
+  s_034dac3936f8e7::t_afbda483053a77 23,35-40
+.env.example
+  s_034dac3936f8e7::t_36c66ebe750c90 5
+frontend-react/src/App.tsx
+  s_034dac3936f8e7::t_e2000a9e20f8f5 1-2,6
+  s_034dac3936f8e7::t_a4fb15871bcc05 25-44,54
+backend/app/web_rag/firecrawl_client.py
+  s_034dac3936f8e7::t_5429018df51e98 29,32-35
+frontend-react/package-lock.json
+  s_034dac3936f8e7::t_9897bded8c0d11 1613
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2babff56c3d4568c158aa1fd79ab3021bd31559b",
+  "prompts": {},
+  "humans": {
+    "h_c5a3d01edfee72": {
+      "author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_034dac3936f8e7": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ef43a185effeTrsGmdK53k712z",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
