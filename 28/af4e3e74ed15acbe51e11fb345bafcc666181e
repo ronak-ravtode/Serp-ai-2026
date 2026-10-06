@@ -1,0 +1,36 @@
+frontend-react/src/pages/LegalDetailPage.tsx
+  s_034dac3936f8e7::t_8b1dbdd0960e57 2
+frontend-react/src/pages/SchemeDetailPage.tsx
+  s_034dac3936f8e7::t_8b1dbdd0960e57 1
+frontend-react/src/pages/ServiceDetailPage.tsx
+  s_034dac3936f8e7::t_8b1dbdd0960e57 2
+frontend-react/src/components/layout/TopNav.tsx
+  s_034dac3936f8e7::t_8b1dbdd0960e57 1
+frontend-react/eslint.config.js
+  s_034dac3936f8e7::t_0a72a7f2332798 29-32
+frontend-react/src/components/ChatWindow.tsx
+  s_034dac3936f8e7::t_8b1dbdd0960e57 2
+frontend-react/src/App.tsx
+  s_034dac3936f8e7::t_f6932bec36a205 33-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "28af4e3e74ed15acbe51e11fb345bafcc666181e",
+  "prompts": {},
+  "humans": {
+    "h_c5a3d01edfee72": {
+      "author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_034dac3936f8e7": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ef43a185effeTrsGmdK53k712z",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
