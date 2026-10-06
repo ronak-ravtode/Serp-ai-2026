@@ -1,0 +1,78 @@
+frontend-react/src/components/chat/GrievanceCard.tsx
+  s_c359a53ae2bc26::t_a33a11198f000f 2,51,152
+frontend-react/src/pages/FaqPage.tsx
+  s_c359a53ae2bc26::t_a33a11198f000f 1-258
+frontend-react/src/pages/SignUpPage.tsx
+  s_c359a53ae2bc26::t_a33a11198f000f 1-9
+frontend-react/src/pages/LegalDetailPage.tsx
+  s_c359a53ae2bc26::t_a33a11198f000f 1-259
+frontend-react/src/components/ChatWindow.tsx
+  s_c359a53ae2bc26::t_a33a11198f000f 2-3,115,119,455,457,574
+frontend-react/src/pages/GrievanceDraftViewPage.tsx
+  s_c359a53ae2bc26::t_a33a11198f000f 1-173
+frontend-react/src/pages/ServiceDetailPage.tsx
+  s_c359a53ae2bc26::t_a33a11198f000f 1-251
+frontend-react/src/styles/document.css
+  s_c359a53ae2bc26::t_a33a11198f000f 1-10
+frontend-react/src/pages/SignInPage.tsx
+  s_c359a53ae2bc26::t_a33a11198f000f 1-9
+frontend-react/src/components/chat/MessageBubble.module.css
+  s_c359a53ae2bc26::t_a33a11198f000f 1-21
+frontend-react/src/components/layout/ConditionalNavs.tsx
+  s_c359a53ae2bc26::t_a33a11198f000f 1,7
+frontend-react/src/pages/SchemesPage.tsx
+  s_c359a53ae2bc26::t_a33a11198f000f 1-248
+frontend-react/src/components/chat/MessageBubble.tsx
+  s_c359a53ae2bc26::t_a33a11198f000f 4,24,405,479
+frontend-react/src/pages/LibraryPage.tsx
+  s_c359a53ae2bc26::t_a33a11198f000f 1-85
+frontend-react/src/pages/ServicesPage.tsx
+  s_c359a53ae2bc26::t_a33a11198f000f 1-260
+frontend-react/src/pages/HomePage.tsx
+  s_c359a53ae2bc26::t_a33a11198f000f 1-339
+frontend-react/src/components/FloatingChatWidget.tsx
+  s_c359a53ae2bc26::t_a33a11198f000f 2,185
+frontend-react/src/components/layout/Footer.tsx
+  s_c359a53ae2bc26::t_a33a11198f000f 1,30,47,64
+frontend-react/src/pages/ChatPage.tsx
+  s_c359a53ae2bc26::t_a33a11198f000f 1-6
+frontend-react/src/main.tsx
+  s_c359a53ae2bc26::t_a33a11198f000f 5
+frontend-react/src/App.tsx
+  s_c359a53ae2bc26::t_a33a11198f000f 1-22,25-55
+frontend-react/src/pages/GrievancePage.tsx
+  s_c359a53ae2bc26::t_a33a11198f000f 1-817
+frontend-react/src/pages/GrievanceStatusPage.tsx
+  s_c359a53ae2bc26::t_a33a11198f000f 1-102
+frontend-react/src/pages/LegalPage.tsx
+  s_c359a53ae2bc26::t_a33a11198f000f 1-217
+frontend-react/eslint.config.js
+  s_c359a53ae2bc26::t_a33a11198f000f 26-33
+frontend-react/src/components/layout/TopNav.tsx
+  s_c359a53ae2bc26::t_a33a11198f000f 1-2,4,22,63,82,109,130,140
+frontend-react/src/components/layout/HamburgerMenu.tsx
+  s_c359a53ae2bc26::t_a33a11198f000f 1,62,75
+frontend-react/src/pages/SchemeDetailPage.tsx
+  s_c359a53ae2bc26::t_a33a11198f000f 1-347
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "646acabdd96c80b01ebd33fd590994d8669fdd63",
+  "prompts": {},
+  "humans": {
+    "h_c5a3d01edfee72": {
+      "author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_c359a53ae2bc26": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ef28e6c4cffeT4K4ywKmjrqCkY",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
