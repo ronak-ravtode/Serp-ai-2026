@@ -1,0 +1,32 @@
+frontend-react/src/main.tsx
+  s_034dac3936f8e7::t_691c0365af9c09 57
+frontend-react/scripts/i18n-coverage.mjs
+  s_034dac3936f8e7::t_db6efc9c1a7695 37-45
+  s_034dac3936f8e7::t_691c0365af9c09 66
+frontend-react/src/lib/i18n/dictionaries.test.ts
+  s_034dac3936f8e7::t_895e43583d9a56 28-30,32
+  s_034dac3936f8e7::t_950f151d8d4439 20-21
+frontend-react/package.json
+  s_034dac3936f8e7::t_691c0365af9c09 13-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4cd69620b8556f8f00fa9992d89b76175bf48173",
+  "prompts": {},
+  "humans": {
+    "h_c5a3d01edfee72": {
+      "author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_034dac3936f8e7": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ef43a185effeTrsGmdK53k712z",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
