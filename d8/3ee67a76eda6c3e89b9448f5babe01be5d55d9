@@ -1,0 +1,30 @@
+frontend-react/README.md
+  s_034dac3936f8e7::t_079e76320368d9 6-8,15-16,22,30,34,42,44-45,51-57,60-61,63-66,68,70-71,73-75,79,82,85-86,90,93-94,103,107-108
+CLAUDE.md
+  s_034dac3936f8e7::t_fdf0c5ff0cc08a 92-93
+  s_034dac3936f8e7::t_8f641befe2a323 67-71,73-75
+  s_034dac3936f8e7::t_0b371368946614 32
+PROJECT_STATUS.md
+  s_034dac3936f8e7::t_e582167f7b9c94 103-104
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d83ee67a76eda6c3e89b9448f5babe01be5d55d9",
+  "prompts": {},
+  "humans": {
+    "h_c5a3d01edfee72": {
+      "author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_034dac3936f8e7": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ef43a185effeTrsGmdK53k712z",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
