@@ -1,0 +1,228 @@
+AGENTS.md
+  h_c5a3d01edfee72 67-68,77,119,200-201,204-206,211-212
+CLAUDE.md
+  h_c5a3d01edfee72 41,44,51-54,78-81,83,88,99
+CONTRIBUTING.md
+  h_c5a3d01edfee72 21,101,123
+DECISIONS.md
+  h_c5a3d01edfee72 176,181-210,212-213
+PRD.md
+  h_c5a3d01edfee72 5-7,19,37-38,44,54,63-64,89,127,133
+PROJECT_STATUS.md
+  h_c5a3d01edfee72 14-15,93,96,124,127-128
+README.md
+  h_c5a3d01edfee72 4-6,27,34-44,56,117,120-136,159-160,170-171,194-198,209-212,264,266,272
+architecture.md
+  h_c5a3d01edfee72 19-29,124,242,326,328
+backend/app/answer_grounding.py
+  h_c5a3d01edfee72 4-6,8-14,26,36,72-75,77,98-105,109-113,126-317,350-358,464-566,575-577,584,586-599,604,606-636,638-651
+backend/app/citation_verifier.py
+  h_c5a3d01edfee72 64-76,80-82,88-89,109-118,120
+backend/app/config.py
+  h_c5a3d01edfee72 14-19,22-23,25,29-31,36,40,48-49,51-55,61-65,68-75,77,129-132,136-138,150-152
+backend/app/contracts.py
+  h_c5a3d01edfee72 400-404
+backend/app/conversation_store.py
+  h_c5a3d01edfee72 19-33,71-83
+backend/app/domains.py
+  h_c5a3d01edfee72 44-64
+backend/app/evidence_controller.py
+  h_c5a3d01edfee72 19,262-264,266-270,324-329,335-338,344-347,518-519,541-542,553-554,558-576,590,599-631,633-656,691-698,704-706,708-710,729,731,733
+backend/app/evidence_gate.py
+  h_c5a3d01edfee72 23-31,34
+backend/app/facets.py
+  h_c5a3d01edfee72 1-90
+backend/app/grievance/classifier.py
+  h_c5a3d01edfee72 102-106,108
+backend/app/grievance/workflow.py
+  h_c5a3d01edfee72 51-56,59-64,148-155,157
+backend/app/main.py
+  h_c5a3d01edfee72 23-36,67,69-70,72,75,77
+backend/app/providers/azure_voice.py
+  h_c5a3d01edfee72 19,82-84,103-105,149-151
+backend/app/providers/embeddings.py
+  h_c5a3d01edfee72 1,13-26,98,100-101,127-132
+backend/app/providers/gemini_llm.py
+  h_c5a3d01edfee72 72-95,97,109-111,113
+backend/app/providers/sarvam_translator.py
+  h_c5a3d01edfee72 61-71,229
+backend/app/resolve_response_language.py
+  h_c5a3d01edfee72 34,36-42,48,53,57
+backend/app/retrieval/__init__.py
+  h_c5a3d01edfee72 34-39,43
+backend/app/retrieval/gemini_reranker.py
+  h_c5a3d01edfee72 29-32,50-52
+backend/app/routes/chat.py
+  h_c5a3d01edfee72 43-51,161-167,169-203,211,227-230,232-233,246,530-539,675-692,708,711-717,859-866,869,890,921-925,932,959-960,965,968-973,975,980,1026,1032,1073,1076,1081,1122,1127-1129,1167-1170,1328-1329,1331,1336,1342,1391,1395,1402,1437,1442,1448,1483,1489-1491,1529-1532
+backend/app/routes/conversations.py
+  h_c5a3d01edfee72 1,3-9,13,19-21,26,31,36-40,45,51-55,63-69,75-80,86-92
+backend/app/routes/grievance.py
+  h_c5a3d01edfee72 19,78-103,107-113,117,154-156,203-205,243-245,416-418
+backend/app/routes/voice.py
+  h_c5a3d01edfee72 56,61-62,73,78-79,133-135
+backend/app/services/lang_memory.py
+  h_c5a3d01edfee72 7-10,15,21-25,27,30-32,38,41,43-48
+backend/app/services/rag_orchestrator.py
+  h_c5a3d01edfee72 27-31,40-41,52-56,185-187,196-220,226-243,288-314,322-326,329,332-333,367-372,374-378,386-395,413-431,434,436,444-458,460-468,476-480,482-500,503,506-507,509-535,537-561,575-576,580,582-586,680,731,808-1008,1019-1024,1027-1032,1036,1041,1050,1053-1054,1083,1093-1115,1141,1173,1181-1185,1228-1234
+backend/app/services/static_rag.py
+  h_c5a3d01edfee72 61,70-74,86-87,156,159-161,240-252,257-278
+backend/app/services/web_rag.py
+  h_c5a3d01edfee72 19,48-52,75-78,82-103,193,203-206,248,270,279,364,533,583-585,588-590,630-633,638-640,644-645,648-650
+backend/app/session_store.py
+  h_c5a3d01edfee72 1,6,8-83,85-91,102-103,110-137,148-160,171-179,196-197,199-200
+backend/app/web_rag/expansion.py
+  h_c5a3d01edfee72 4-9,72-77,85-97,125
+backend/app/web_rag/firecrawl_client.py
+  h_c5a3d01edfee72 32-35
+backend/app/web_rag/providers.py
+  h_c5a3d01edfee72 21,28-29,41-46,52-65,76-80,82-93,138-143,148-155
+backend/app/web_rag/query_classifier.py
+  h_c5a3d01edfee72 62-63,68-71,682-689,721-849,860-861,864-865,867,870-872,875,878-880,891-892,895,897,899,902,905-907,914,944-945,995,1011,1023,1026,1053,1075
+backend/app/web_rag/serpapi_client.py
+  h_c5a3d01edfee72 38-41,87-128,182-184,205-209,226-236,238
+backend/app/web_rag/service.py
+  h_c5a3d01edfee72 46,104-116,1153,1170-1174,1176,1178-1180,1195-1207
+backend/app/web_rag/terminology_expansion.json
+  h_c5a3d01edfee72 1
+backend/data/DOMAIN_TAXONOMY.md
+  h_c5a3d01edfee72 26,54-55,61-62
+backend/data/keyword_rules.json
+  h_c5a3d01edfee72 3,8-9
+backend/schema.sql
+  h_c5a3d01edfee72 119-120,123,128
+backend/tests/conftest.py
+  h_c5a3d01edfee72 19-22,34,36-44,50
+backend/tests/test_adversarial_p0.py
+  h_c5a3d01edfee72 81-82,84-85,137,139,144,146,154-155,157
+backend/tests/test_auth_enforcement.py
+  h_c5a3d01edfee72 1-85
+backend/tests/test_chat_history.py
+  h_c5a3d01edfee72 125,174,190,198
+backend/tests/test_chat_route.py
+  h_c5a3d01edfee72 51-52
+backend/tests/test_chat_session_ownership.py
+  h_c5a3d01edfee72 1-471
+backend/tests/test_citation_ambiguity.py
+  h_c5a3d01edfee72 11,170-214
+backend/tests/test_classifier_consistency_p1.py
+  h_c5a3d01edfee72 1-184
+backend/tests/test_coverage_selector.py
+  h_c5a3d01edfee72 1-15
+backend/tests/test_duplicate_evidence_citations.py
+  h_c5a3d01edfee72 1-47
+backend/tests/test_embedding_retry.py
+  h_c5a3d01edfee72 6,14,146-204
+backend/tests/test_evidence_controller.py
+  h_c5a3d01edfee72 121-160
+backend/tests/test_evidence_gate_pipeline.py
+  h_c5a3d01edfee72 47-50,53,63-65
+backend/tests/test_expansion_p2.py
+  h_c5a3d01edfee72 63-79
+backend/tests/test_facet_integration.py
+  h_c5a3d01edfee72 1-464
+backend/tests/test_facet_router.py
+  h_c5a3d01edfee72 1-24
+backend/tests/test_facets_p0.py
+  h_c5a3d01edfee72 116-119
+backend/tests/test_gate_pacs_isolation.py
+  h_c5a3d01edfee72 1-107
+backend/tests/test_gemini_reranker_fallback.py
+  h_c5a3d01edfee72 5,8-10,84-123
+backend/tests/test_gemini_stream.py
+  h_c5a3d01edfee72 1-63
+backend/tests/test_grievance_classifier_narrative.py
+  h_c5a3d01edfee72 104-132
+backend/tests/test_grievance_english_mirror_location.py
+  h_c5a3d01edfee72 97,136,172
+backend/tests/test_grievance_fk_fix.py
+  h_c5a3d01edfee72 69-71,96,121-126
+backend/tests/test_grievance_structured_fields.py
+  h_c5a3d01edfee72 217,250,290,313
+backend/tests/test_grounding_enforcement.py
+  h_c5a3d01edfee72 1-595
+backend/tests/test_jurisdiction_consistency_p1.py
+  h_c5a3d01edfee72 1-184
+backend/tests/test_jurisdiction_p0.py
+  h_c5a3d01edfee72 100-102,107-110,120-123,125-128
+backend/tests/test_migration_sessions_user_id.py
+  h_c5a3d01edfee72 1-82
+backend/tests/test_multilingual.py
+  h_c5a3d01edfee72 385-386,404-405,423-424
+backend/tests/test_multilingual_p0.py
+  h_c5a3d01edfee72 194-195,199-200
+backend/tests/test_multilingual_routing.py
+  h_c5a3d01edfee72 111-114,116,118
+backend/tests/test_ownership_p0.py
+  h_c5a3d01edfee72 1-249
+backend/tests/test_p1_citation_granularity.py
+  h_c5a3d01edfee72 1-368
+backend/tests/test_p1_confidence_grounding.py
+  h_c5a3d01edfee72 1-312
+backend/tests/test_p1_grounding_adversarial.py
+  h_c5a3d01edfee72 1-570
+backend/tests/test_p1_qualitative_grounding.py
+  h_c5a3d01edfee72 1-395
+backend/tests/test_providers.py
+  h_c5a3d01edfee72 14
+backend/tests/test_rag_translation_protection.py
+  h_c5a3d01edfee72 1-56
+backend/tests/test_recovery_p1.py
+  h_c5a3d01edfee72 246-248
+backend/tests/test_serpapi_provider_path.py
+  h_c5a3d01edfee72 1-188
+backend/tests/test_services_static_rag.py
+  h_c5a3d01edfee72 134
+backend/tests/test_session_contamination_p1.py
+  h_c5a3d01edfee72 1-277
+backend/tests/test_session_store_messages.py
+  h_c5a3d01edfee72 52-107
+backend/tests/test_static_rag_rpc_overload.py
+  h_c5a3d01edfee72 1-287
+backend/tests/test_uncertainty_p2.py
+  h_c5a3d01edfee72 124-125,127-129
+backend/tests/test_web_discovery_providers.py
+  h_c5a3d01edfee72 185-214
+backend/uv.lock
+  h_c5a3d01edfee72 1-2724
+docs/runbooks/provider-setup.md
+  h_c5a3d01edfee72 3-6,14-17,23,25-37,40-43,45-46,48,50-51,54-55,57,59,61-62,65,67-69,71,73-78,80,82-90,92-100,102-112,114-154,157,160-163,169-170
+docs/superpowers/plans/2026-10-07-facet-aware-retrieval.md
+  h_c5a3d01edfee72 1-439
+docs/superpowers/specs/2026-10-07-facet-aware-retrieval-design.md
+  h_c5a3d01edfee72 1-108
+frontend/AGENTS.md
+  h_c5a3d01edfee72 1-18
+frontend/CLAUDE.md
+  h_c5a3d01edfee72 1-34
+frontend/README.md
+  h_c5a3d01edfee72 34-35
+frontend/next-env.d.ts
+  h_c5a3d01edfee72 1-7
+frontend/package-lock.json
+  h_c5a3d01edfee72 1529-1530,2089,2154,2165,2186,2243,2268,2327,2350,2517,2531,2548,2558,2690,2732-2733,2753-2754,2768,2867-2868,3139,3267,3367,3377,3645,3694,3747-3748,3761,3856-3857,4334,4657,4671,5268,5278,5340,5357,5388,5415,5428,5539,5569,5660,5685,5713,5730,5744,5781-5782,5977,6036,6063,6088-6089,6119,6139,6156,6175,6239,6307,6392,6480,6499,6645,6702,7285-7286
+frontend/src/App.tsx
+  h_c5a3d01edfee72 45-53,55-74,77-79
+supabase/migrations/20261007_sessions_user_id.sql
+  h_c5a3d01edfee72 1-6
+workflows/01_ingestion_loop.md
+  h_c5a3d01edfee72 5-7
+workflows/02_retrieval_testing_loop.md
+  h_c5a3d01edfee72 5-7,204
+workflows/03_database_integrity_loop.md
+  h_c5a3d01edfee72 5-7
+workflows/04_failure_injection_loop.md
+  h_c5a3d01edfee72 5-7
+workflows/05_release_gate_loop.md
+  h_c5a3d01edfee72 5-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0d1ccf7dd3e47adc4e2a07261250c8a71ab74d53",
+  "prompts": {},
+  "humans": {
+    "h_c5a3d01edfee72": {
+      "author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
