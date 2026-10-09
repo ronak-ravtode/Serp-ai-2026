@@ -1,0 +1,37 @@
+backend/app/config.py
+  s_034dac3936f8e7::t_7cf3563cb2a82d 178
+backend/app/evidence_controller.py
+  s_1fcee5c356c6f2::t_20685327126f93 408-415,436,624
+backend/app/routes/chat.py
+  s_034dac3936f8e7::t_b5505b4e1e09ec 58
+frontend/package-lock.json
+  s_034dac3936f8e7::t_b0211110a561b3 2,8
+frontend/src/components/chat/MessageBubble.tsx
+  s_034dac3936f8e7::t_0c1676d3584b3a 270-276,429-433
+frontend/vite.config.ts
+  s_034dac3936f8e7::t_f48a887958b3ac 1,6-31,33-37,39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fa0a1e42df85ecff47560fa31dda856ecabe182c",
+  "prompts": {},
+  "sessions": {
+    "s_034dac3936f8e7": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ef43a185effeTrsGmdK53k712z",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    },
+    "s_1fcee5c356c6f2": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ef449e9dfffe7sYGV8iw4WLrn4",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
