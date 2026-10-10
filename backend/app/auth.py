@@ -51,20 +51,30 @@ async def verify_clerk_token(request: Request) -> str | None:
     """Extract and verify Clerk session JWT. Returns user_id or None."""
     auth_header = request.headers.get("Authorization", "")
     if not auth_header.startswith("Bearer "):
+        logger.warning("clerk_auth: no Bearer header (Authorization present=%s)",
+                       bool(auth_header))
         return None
     token = auth_header[7:]
     s = get_settings()
     if not s.clerk_issuer or not s.clerk_secret_key:
+        logger.warning("clerk_auth: not configured (issuer set=%s, secret set=%s)",
+                       bool(s.clerk_issuer), bool(s.clerk_secret_key))
         return None
     try:
         jwks = await _get_jwks()
         if not jwks:
+            logger.warning("clerk_auth: JWKS empty/unreachable for issuer %s", s.clerk_issuer)
             return None
 
         header = jwt.get_unverified_header(token)
         kid = header.get("kid")
+        available = [k.get("kid") for k in jwks.get("keys", [])]
         key_data = next((k for k in jwks.get("keys", []) if k.get("kid") == kid), None)
         if not key_data:
+            # The single most common deployment failure: the frontend mints
+            # tokens with a different Clerk instance than CLERK_ISSUER points at.
+            logger.warning("clerk_auth: kid %r not in issuer %s (issuer has %r)",
+                           kid, s.clerk_issuer, available)
             return None
 
         public_key = jwk.construct(key_data)
@@ -75,7 +85,8 @@ async def verify_clerk_token(request: Request) -> str | None:
             issuer=s.clerk_issuer,
         )
         return payload.get("sub")
-    except JWTError:
+    except JWTError as e:
+        logger.warning("clerk_auth: JWT rejected by issuer %s: %s", s.clerk_issuer, e)
         return None
 
 
