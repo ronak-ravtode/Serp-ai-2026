@@ -1,0 +1,21 @@
+frontend/src/components/layout/TopNav.tsx
+  s_034dac3936f8e7::t_6cc873058413bb 155-173,177
+frontend/src/pages/SignInPage.tsx
+  s_034dac3936f8e7::t_cca570785c85cc 9,26,35-36,38-39,43-44,46,50-51,53-54,61,68,75,82,90,98,100,108,114-133
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "499074e9fb18788640b39904051188d3e3725f75",
+  "prompts": {},
+  "sessions": {
+    "s_034dac3936f8e7": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ef43a185effeTrsGmdK53k712z",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
