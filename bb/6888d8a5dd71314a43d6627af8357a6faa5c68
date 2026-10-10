@@ -1,0 +1,33 @@
+backend/app/auth.py
+  s_1fcee5c356c6f2::t_97c1ab5a207ca4 54,56-65,68-70,74-75,82-83,92,94-95,104-105
+frontend/src/components/layout/TopNav.tsx
+  s_034dac3936f8e7::t_cf84ae10a1ad51 137-153,163
+frontend/src/lib/backend.ts
+  s_034dac3936f8e7::t_1a701c683f9189 44,46-52,54-55,58
+frontend/src/pages/SignInPage.tsx
+  s_034dac3936f8e7::t_f39a9516b4c9d7 2-3,6-24,26-134
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bb6888d8a5dd71314a43d6627af8357a6faa5c68",
+  "prompts": {},
+  "sessions": {
+    "s_034dac3936f8e7": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ef43a185effeTrsGmdK53k712z",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    },
+    "s_1fcee5c356c6f2": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ef449e9dfffe7sYGV8iw4WLrn4",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
