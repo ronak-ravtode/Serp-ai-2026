@@ -1,0 +1,19 @@
+frontend/src/pages/SignInPage.tsx
+  s_034dac3936f8e7::t_f88d9cab3c256c 26-28,32,35,38,42-54,56,58-71,73-84,88-89,91,93-101,103-117,121
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "593c26dc6c1953b840d8c9959f9bb7563fbea60e",
+  "prompts": {},
+  "sessions": {
+    "s_034dac3936f8e7": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ef43a185effeTrsGmdK53k712z",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
