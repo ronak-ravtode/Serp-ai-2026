@@ -1,0 +1,20 @@
+backend/app/main.py
+  s_70fd9bd7aaa3a9::t_f8e7fc01a45d6c 78-79,82
+  s_70fd9bd7aaa3a9::t_7206de23bb22d6 80-81
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "afe6683fef0998a96d74ced280d68803ff56b398",
+  "prompts": {},
+  "sessions": {
+    "s_70fd9bd7aaa3a9": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ed9a2a13cffe0oDHrUuoYkatjG",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
