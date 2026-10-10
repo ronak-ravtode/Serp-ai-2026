@@ -1,0 +1,21 @@
+render.yaml
+  s_70fd9bd7aaa3a9::t_77391031a18550 10-14
+frontend/vercel.json
+  s_70fd9bd7aaa3a9::t_a5d5d289e1703e 1-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "083b3e3753e62e1e14908ab6bbaa8c544cebdadb",
+  "prompts": {},
+  "sessions": {
+    "s_70fd9bd7aaa3a9": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ed9a2a13cffe0oDHrUuoYkatjG",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
