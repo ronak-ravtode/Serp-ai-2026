@@ -1,0 +1,21 @@
+backend/app/evidence_controller.py
+  s_70fd9bd7aaa3a9::t_d07588e4b27d2a 727-730
+backend/app/services/web_rag.py
+  s_70fd9bd7aaa3a9::t_50d49dce39dfae 79-80,157-158
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f5997bcc8cf84a3b43a93f8722e93794c130ebd9",
+  "prompts": {},
+  "sessions": {
+    "s_70fd9bd7aaa3a9": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ed9a2a13cffe0oDHrUuoYkatjG",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
