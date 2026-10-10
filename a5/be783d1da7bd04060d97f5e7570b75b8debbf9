@@ -1,0 +1,37 @@
+frontend/src/lib/api.ts
+  s_70fd9bd7aaa3a9::t_ed83b1a7c8f7ad 96-103
+frontend/src/components/ChatWindow.tsx
+  s_70fd9bd7aaa3a9::t_dad618ac9d9d66 112
+frontend/src/lib/i18n/dictionaries.ts
+  s_70fd9bd7aaa3a9::t_63e2976568ebfb 61-62
+  s_70fd9bd7aaa3a9::t_85aee06dbdf97f 861-862
+  s_70fd9bd7aaa3a9::t_021bed3c84c747 2723-2724
+  s_70fd9bd7aaa3a9::t_64747cd52f3591 1867-1868
+  s_70fd9bd7aaa3a9::t_e5d37304d814e9 1520-1521
+  s_70fd9bd7aaa3a9::t_cf8adc86a76284 1255-1256
+  s_70fd9bd7aaa3a9::t_115a8c0bf9f486 3361-3362
+  s_70fd9bd7aaa3a9::t_f4406b6c7172df 2438-2439
+  s_70fd9bd7aaa3a9::t_f291b97ea1eadb 2153-2154
+  s_70fd9bd7aaa3a9::t_cb6fde3bcd5b5b 463-464
+  s_70fd9bd7aaa3a9::t_87644204df39ad 3076-3077
+frontend/src/components/chat/MessageBubble.tsx
+  s_70fd9bd7aaa3a9::t_edec55820dc73c 379-387
+frontend/.gitignore
+  s_70fd9bd7aaa3a9::t_091e6122ac052d 7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a5be783d1da7bd04060d97f5e7570b75b8debbf9",
+  "prompts": {},
+  "sessions": {
+    "s_70fd9bd7aaa3a9": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ed9a2a13cffe0oDHrUuoYkatjG",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
