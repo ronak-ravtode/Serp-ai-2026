@@ -1,0 +1,26 @@
+backend/app/evidence_controller.py
+  s_70fd9bd7aaa3a9::t_78fedcc3582d1a 480-485
+  s_70fd9bd7aaa3a9::t_78a7b361670dff 495,497-502
+backend/app/evidence_gate.py
+  s_70fd9bd7aaa3a9::t_d9e760c478ed7c 56-57,59,61,65-66,73,77,87
+backend/app/routes/chat.py
+  s_70fd9bd7aaa3a9::t_d66308788d5add 76-78,133-134,846,848-851,860,1172,1174,1533,1535-1536
+backend/app/services/rag_orchestrator.py
+  s_70fd9bd7aaa3a9::t_5b73769adff29e 293-295,1320,1326,1329,1337
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b5d806105d80dd4c37b34c9667c52a677c44c1fa",
+  "prompts": {},
+  "sessions": {
+    "s_70fd9bd7aaa3a9": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ed9a2a13cffe0oDHrUuoYkatjG",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
