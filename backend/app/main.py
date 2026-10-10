@@ -75,4 +75,9 @@ def health_providers() -> dict:
         "serpapi": "configured" if s.serpapi_api_key_1 else "missing",
         "firecrawl": "configured" if s.firecrawl_api_key else "missing",
         "clerk": "configured" if s.clerk_secret_key else "missing",
+        # The secret key alone proves nothing: auth.py verifies tokens against the
+        # ISSUER's JWKS, so a wrong/missing issuer 401s every request while this
+        # endpoint still reports "configured". Surface the value that actually
+        # decides auth so a mismatch is diagnosable without a browser.
+        "clerk_issuer": s.clerk_issuer or "MISSING",
     }
